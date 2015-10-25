@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YourFault</string>
+    <string name="main_activity_name">Recent Earthquakes</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_earthquake_view">EarthquakeViewActivity</string>
+    <string name="earthquake_more_info_link">MORE INFO</string>
+
+    <string name="title_activity_image_view">ImageViewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
